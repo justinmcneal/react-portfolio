@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.d178db07.css",
-    "main.js": "/react-portfolio/static/js/main.71a9c067.js",
+    "main.css": "/react-portfolio/static/css/main.7ac14fe3.css",
+    "main.js": "/react-portfolio/static/js/main.e92eae6e.js",
     "static/js/453.1407b060.chunk.js": "/react-portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/astronaut.svg": "/react-portfolio/static/media/astronaut.f13b203e72b5cd66aee5de0cfbe166d6.svg",
-    "static/media/banner-bg.png": "/react-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/bgbanner.jpg": "/react-portfolio/static/media/bgbanner.7e3f2ecf062e72c0c946.jpg",
+    "static/media/gojoo.png": "/react-portfolio/static/media/gojoo.4ea0c34fdd7530b8c11d.png",
     "static/media/mylogo.svg": "/react-portfolio/static/media/mylogo.6ec4564e51d909349b52f07f70731ffa.svg",
     "static/media/CentraNo2-Bold.ttf": "/react-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/react-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -15,12 +15,12 @@
     "index.html": "/react-portfolio/index.html",
     "static/media/nav-icon1.svg": "/react-portfolio/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/nav-icon2.svg": "/react-portfolio/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
-    "main.d178db07.css.map": "/react-portfolio/static/css/main.d178db07.css.map",
-    "main.71a9c067.js.map": "/react-portfolio/static/js/main.71a9c067.js.map",
+    "main.7ac14fe3.css.map": "/react-portfolio/static/css/main.7ac14fe3.css.map",
+    "main.e92eae6e.js.map": "/react-portfolio/static/js/main.e92eae6e.js.map",
     "453.1407b060.chunk.js.map": "/react-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d178db07.css",
-    "static/js/main.71a9c067.js"
+    "static/css/main.7ac14fe3.css",
+    "static/js/main.e92eae6e.js"
   ]
 }
